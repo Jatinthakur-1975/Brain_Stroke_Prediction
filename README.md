@@ -11,3 +11,8 @@ The followed approach is based on the usage of a 3D Convolutional Neural Network
 place of a standard 2D one. 2D CNNs are commonly used to process both grayscale (1 
 channel) and RGB images (3 channels), while a 3D CNN represents the 3D equivalent since 
 it takes as input a 3D volume or a sequence of 2D frames, e.g. slices in a CT scan. 
+
+
+# Dataset
+
+https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset?select=Brain_Data_Organised
